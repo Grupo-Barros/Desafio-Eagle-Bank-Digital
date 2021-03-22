@@ -11,8 +11,7 @@
 
 ## Mobile
 - Construir um aplicativo ultilizando Expo, consumindo dessa api
-- O aplicativo precisa usar Redux
-- Usar as bibliotecas Unform e Yup
+- O aplicativo precisa usar Redux ou Context API.
 
 Padronização de codigo com Eslint, Prettier e EditorConfig serão bem avaliados, assim como uma boa organização e commits detalhados.
 
